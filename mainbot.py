@@ -1,3 +1,8 @@
+# an evironment file should be created
+# this file should contain on two seperate likes:
+# DISCORD_TOKEN=""
+# DISCORD_GUILD=""
+
 import os 
 import discord
 
