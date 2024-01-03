@@ -36,6 +36,3 @@ git clone https://github.com/davidliberal0/discord_bot.git
 
 # Navigate to the bot's directory
 cd discord_bot
-
-# Install dependencies
-npm install
