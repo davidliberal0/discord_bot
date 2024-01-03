@@ -1,4 +1,4 @@
-# Project Name - Discord Bot for Programming Resources and Fun
+# Discord Bot for Programming Resources and Fun
 
 ## Welcome to the README for our Discord bot project!
 
